@@ -1,14 +1,18 @@
-author: mongoose-os
+author: nikwest (original version by Frank Kienast 2010)
 type: lib
-description: An empty lib that does nothing
+description: Keeloq algorithm, ported from Arduino
 version: 1.0
 
+includes:
+  - include
 sources:
   - src
 filesystem:
   - fs
 config_schema:
+
 libs:
+  - origin: https://github.com/mongoose-os-libs/core
 
 tags:
   - c
