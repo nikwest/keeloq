@@ -3,4 +3,4 @@
 
 ## Overview
 
-Simple port of C++ Arduiono keeloq library to Mongoose
+Simple port of C++ Arduino keeloq library to Mongoose
